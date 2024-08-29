@@ -1,0 +1,17 @@
+{
+	id: "8e8b499e-2f40-421c-9141-9847287d010c"
+	type: "player"
+	player_name: "IndiRosig_"
+	ranks: {
+		8e8b499e-2f40-421c-9141-9847287d010c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IndiRosig_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF69"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

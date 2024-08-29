@@ -1,0 +1,17 @@
+{
+	id: "c231ca8d-2e00-403e-9ef2-28038a6947e1"
+	type: "player"
+	player_name: "Naciohh"
+	ranks: {
+		c231ca8d-2e00-403e-9ef2-28038a6947e1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Naciohh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFEF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
